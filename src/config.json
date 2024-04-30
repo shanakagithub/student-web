@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://api.asgardeo.io/t/doodus",
+    "clientID": "Cw_jd8SQhUktCUDvhgrpyffEVTca",
+    "scope": [
+        "openid",
+        "profile"
+    ],
+    "signInRedirectURL": "https://a39fbeee-89ec-48ff-80c6-45e2b08b5c2b.e1-us-east-azure.choreoapps.dev",
+    "signOutRedirectURL": "https://a39fbeee-89ec-48ff-80c6-45e2b08b5c2b.e1-us-east-azure.choreoapps.dev"
+}
